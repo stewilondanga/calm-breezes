@@ -56,13 +56,14 @@ body :-ms-input-placeholder {
   height: 1.5em;
 }
 
-/*@font-face {
+@font-face {
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 200;
   src: local('Source Sans Pro ExtraLight'), local('SourceSansPro-ExtraLight'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdr.ttf) format('truetype');
 }
-@font-face {
+
+/*@font-face {
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 300;
