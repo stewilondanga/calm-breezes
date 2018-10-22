@@ -127,10 +127,11 @@ form input {
   font-weight: 300;
 }
 
-/*form input:hover {
+form input:hover {
   background-color: rgba(255, 255, 255, 0.4);
 }
-form input:focus {
+
+/*form input:focus {
   background-color: white;
   width: 300px;
   color: #53e3a6;
