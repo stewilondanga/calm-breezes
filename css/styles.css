@@ -70,7 +70,7 @@ body :-ms-input-placeholder {
   src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf) format('truetype');
 }
 
-/*.wrapper {
+.wrapper {
   background: #50a3a2;
   background: linear-gradient(to bottom right, #50a3a2 0%, #53e3a6 100%);
   position: absolute;
@@ -81,7 +81,8 @@ body :-ms-input-placeholder {
   margin-top: -200px;
   overflow: hidden;
 }
-.wrapper.form-success .container h1 {
+
+/*.wrapper.form-success .container h1 {
   -webkit-transform: translateY(85px);
           transform: translateY(85px);
 }
