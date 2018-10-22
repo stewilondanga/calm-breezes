@@ -95,13 +95,14 @@ body :-ms-input-placeholder {
   text-align: center;
 }
 
-/*.container h1 {
+.container h1 {
   font-size: 40px;
   transition-duration: 1s;
   transition-timing-function: ease-in-put;
   font-weight: 200;
 }
-form {
+
+/*form {
   padding: 20px 0;
   position: relative;
   z-index: 2;
