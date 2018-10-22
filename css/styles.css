@@ -157,7 +157,7 @@ form button:hover {
   background-color: #f5f7f9;
 }
 
-/*.bg-bubbles {
+.bg-bubbles {
   position: absolute;
   top: 0;
   left: 0;
@@ -165,7 +165,8 @@ form button:hover {
   height: 100%;
   z-index: 1;
 }
-.bg-bubbles li {
+
+/*.bg-bubbles li {
   position: absolute;
   list-style: none;
   display: block;
