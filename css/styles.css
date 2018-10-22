@@ -63,14 +63,14 @@ body :-ms-input-placeholder {
   src: local('Source Sans Pro ExtraLight'), local('SourceSansPro-ExtraLight'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdr.ttf) format('truetype');
 }
 
-/*@font-face {
+@font-face {
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 300;
   src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf) format('truetype');
 }
 
-.wrapper {
+/*.wrapper {
   background: #50a3a2;
   background: linear-gradient(to bottom right, #50a3a2 0%, #53e3a6 100%);
   position: absolute;
