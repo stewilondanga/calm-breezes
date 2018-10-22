@@ -102,12 +102,13 @@ body :-ms-input-placeholder {
   font-weight: 200;
 }
 
-/*form {
+form {
   padding: 20px 0;
   position: relative;
   z-index: 2;
 }
-form input {
+
+/*form input {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
