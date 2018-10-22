@@ -183,16 +183,17 @@ form button:hover {
   left: 10%;
 }
 
-/*.bg-bubbles li:nth-child(2) {
+.bg-bubbles li:nth-child(2) {
   left: 20%;
   width: 80px;
   height: 80px;
   -webkit-animation-delay: 2s;
-          animation-delay: 2s;
+  animation-delay: 2s;
   -webkit-animation-duration: 17s;
-          animation-duration: 17s;
+  animation-duration: 17s;
 }
-.bg-bubbles li:nth-child(3) {
+
+/*.bg-bubbles li:nth-child(3) {
   left: 25%;
   -webkit-animation-delay: 4s;
           animation-delay: 4s;
