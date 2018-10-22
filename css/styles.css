@@ -221,14 +221,15 @@ form button:hover {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
-/*.bg-bubbles li:nth-child(7) {
+.bg-bubbles li:nth-child(7) {
   left: 32%;
   width: 160px;
   height: 160px;
   -webkit-animation-delay: 7s;
-          animation-delay: 7s;
+  animation-delay: 7s;
 }
-.bg-bubbles li:nth-child(8) {
+
+/*.bg-bubbles li:nth-child(8) {
   left: 55%;
   width: 20px;
   height: 20px;
