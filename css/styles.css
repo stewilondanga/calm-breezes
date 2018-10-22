@@ -36,11 +36,12 @@ body ::-moz-placeholder {
 
 body :-ms-input-placeholder {
   /* Internet Explorer 10+ */
-  /*  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   color: white;
   font-weight: 300;
 }
-.my_social {
+
+/*.my_social {
   position: absolute;
   top: 25px;
   left: 25px;
