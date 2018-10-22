@@ -34,10 +34,9 @@ body ::-moz-placeholder {
   font-weight: 300;
 }
 
-/*body :-ms-input-placeholder {
+body :-ms-input-placeholder {
   /* Internet Explorer 10+ */
-
-/*  font-family: 'Source Sans Pro', sans-serif;
+  /*  font-family: 'Source Sans Pro', sans-serif;
   color: white;
   font-weight: 300;
 }
