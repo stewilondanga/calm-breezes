@@ -166,7 +166,7 @@ form button:hover {
   z-index: 1;
 }
 
-/*.bg-bubbles li {
+.bg-bubbles li {
   position: absolute;
   list-style: none;
   display: block;
@@ -178,7 +178,8 @@ form button:hover {
   animation: square 25s infinite;
   transition-timing-function: linear;
 }
-.bg-bubbles li:nth-child(1) {
+
+/*.bg-bubbles li:nth-child(1) {
   left: 10%;
 }
 .bg-bubbles li:nth-child(2) {
