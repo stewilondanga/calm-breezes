@@ -52,11 +52,11 @@ body :-ms-input-placeholder {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-@font-face {
+/*@font-face {
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 200;
