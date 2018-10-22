@@ -5,13 +5,13 @@
   font-weight: 300;
 }
 
-/*
 body {
   font-family: 'Source Sans Pro', sans-serif;
   color: white;
   font-weight: 300;
 }
-body ::-webkit-input-placeholder {
+
+/*body ::-webkit-input-placeholder {
   /* WebKit browsers */
 
 /*font-family: 'Source Sans Pro', sans-serif;
