@@ -137,10 +137,10 @@ form input:focus {
   color: #53e3a6;
 }
 
-/*form button {
+form button {
   -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
+  -moz-appearance: none;
+  appearance: none;
   outline: 0;
   background-color: white;
   border: 0;
@@ -152,7 +152,8 @@ form input:focus {
   font-size: 18px;
   transition-duration: 0.25s;
 }
-form button:hover {
+
+/*form button:hover {
   background-color: #f5f7f9;
 }
 .bg-bubbles {
