@@ -179,10 +179,11 @@ form button:hover {
   transition-timing-function: linear;
 }
 
-/*.bg-bubbles li:nth-child(1) {
+.bg-bubbles li:nth-child(1) {
   left: 10%;
 }
-.bg-bubbles li:nth-child(2) {
+
+/*.bg-bubbles li:nth-child(2) {
   left: 20%;
   width: 80px;
   height: 80px;
